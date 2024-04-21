@@ -1,2 +1,2 @@
-# QA_Chat_Mistral
+# QA_APP
 Using Langchain , HuggingFace &amp; Mistral

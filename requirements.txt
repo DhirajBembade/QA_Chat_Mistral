@@ -1,0 +1,21 @@
+langchain_openai  # OpenAI's language model library, used for natural language processing tasks.
+langchain-Core # Core functionalities of the language chain project.
+python-dotenv  # Library for managing environment variables in Python projects.
+streamlit  # Library for creating interactive web applications with Python.
+langchain_community  # Community-related functionalities for the language chain project.
+langserve  # Language serving functionalities for the language chain project.
+fastapi  # Web framework for building APIs with Python, known for its speed and ease of use.
+uvicorn  # ASGI server for running Python web applications.
+sse_starlette  # Library for Server-Sent Events (SSE) with Starlette, used for real-time messaging.
+bs4  # Beautiful Soup, a library for web scraping and parsing HTML and XML documents.
+pypdf  # Library for reading and manipulating PDF files in Python.
+chromadb  # Library for managing data in a Chromium-like database.
+faiss-cpu  # Library for efficient similarity search and clustering of dense vectors.
+groq  # Query language for JSON-like data structures, used for efficient data querying.
+cassio  # Library for Cassandra database management.
+beautifulsoup4  # Another library for web scraping and parsing HTML and XML documents.
+langchain-qroq  # Library for QR code functionalities in the language chain project.
+wikipedia  # Library for accessing Wikipedia articles and information.
+arxiv # Library for accessing arXiv.org for research papers and articles.
+langchainhub  # Hub functionalities for the language chain project.
+sentence_transformers
